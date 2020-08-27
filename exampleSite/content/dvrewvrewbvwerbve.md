@@ -5,7 +5,7 @@ description = ""
 image = ""
 tags = []
 title = "dvrewvrewbvwerbve"
-type = "post"
+type = "featured"
 
 +++
 vreqvrevrwevwerv
